@@ -1,4 +1,40 @@
-/* index-css */
-    .card {
-        float: left;
+/* general */
+
+body {
+    background-color: white;
+    font-family: Georgia, Times, "Times New Roman", serif;
+      font-weight: 700;
+      color: #4aaaa5;
     }
+    img {
+
+    width: 200px;
+    height: 200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #777777;
+    }
+    
+       
+    p {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: gray;
+    }
+    
+    * {
+        box-sizing: border-box;
+      }
+
+    .row {
+        font-size: 20px;
+        color: #ffffff;
+    }
+
+
+
+
+
+
+
+
+
+    
